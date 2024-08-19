@@ -19,6 +19,11 @@ header {
   font-size: 18px;
 }
 
+::placeholder {
+  font-size: 12px;
+  font-style: italic;
+}
+
 .submit-button {
   padding: 10px 14px;
   border: none;
