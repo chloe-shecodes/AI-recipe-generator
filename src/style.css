@@ -45,6 +45,10 @@ form {
   border-radius: 0px 10px 10px 0px;
   margin-bottom: 30px;
 }
+
+.recipe strong {
+  color: #488b8f;
+}
 footer {
   font-size: 10px;
   text-align: center;
